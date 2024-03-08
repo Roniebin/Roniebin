@@ -11,15 +11,15 @@ Feel free to check it out 🔥🔥
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![MongDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=HTML5&logoColor=white)<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=HTML5&logoColor=white)<br>
+![MongDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 
 #### 💪 Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Eclipse%20IDE-007ACC.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Eclipse%20IDE-3DDC84.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 #### Significant Projects
 - 
