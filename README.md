@@ -1,7 +1,8 @@
 ## Song Seong bin 😄
 Hi there👋 <br>
-I am a person who wants to be a front-end developer.<br>
+I am a beginner who wants to be a front-end developer.<br>
 This is my repository that I use to record what I have been working on so far.<br>
+Feel free to check it out 🔥🔥
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FRoniebin&count_bg=%23FAD4D4&title_bg=%23F28B84&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
