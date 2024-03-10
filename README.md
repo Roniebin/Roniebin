@@ -14,12 +14,10 @@ Feel free to check it out 🔥🔥
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=HTML5&logoColor=white)<br>
 ![MongDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 
 #### 💪 Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 <!--
 **Roniebin/Roniebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
