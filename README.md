@@ -14,6 +14,7 @@ Feel free to check it out 🔥🔥
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=HTML5&logoColor=white)<br>
 ![MongDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 
 #### 💪 Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
