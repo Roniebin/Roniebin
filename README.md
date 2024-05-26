@@ -6,7 +6,7 @@ Feel free to check it out 🔥🔥
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FRoniebin&count_bg=%23FAD4D4&title_bg=%23F28B84&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href = "<a href = "https://funky-gouda-17b.notion.site/03a3e64eacf34c62af5c7f3d861cf76b">">
+<a href = "https://funky-gouda-17b.notion.site/03a3e64eacf34c62af5c7f3d861cf76b">">
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"></a>
 
 #### 💪 Skills 
